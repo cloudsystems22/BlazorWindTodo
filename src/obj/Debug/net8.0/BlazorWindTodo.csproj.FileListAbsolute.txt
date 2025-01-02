@@ -2049,9 +2049,6 @@ C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\comp
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\ufjcjsjl6l-tptq2av103.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\xcyzhqt6ao-lfu7j35m59.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\0n6d5eb1uw-oyz0vx2fzb.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\lvvoff21ww-f6fvv8orxv.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\tlu33tjpe3-stxlck4lue.gz
-C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\yq9ozhpzrw-dgfhrppsut.gz
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2066,3 +2063,6 @@ C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\Blaz
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\refint\BlazorWindTodo.dll
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\BlazorWindTodo.pdb
 C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\ref\BlazorWindTodo.dll
+C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\lvvoff21ww-ga5yy2tp54.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\tlu33tjpe3-9ojr6m4o3v.gz
+C:\Users\a.david.fico.neto\source\repos\BlazorWindTodo\src\obj\Debug\net8.0\compressed\yq9ozhpzrw-8q1e791bmc.gz
